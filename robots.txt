@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barakahbox8-max.github.io/barakah-boxax.github.io/barakah-box/sitemap.xml
